@@ -55,6 +55,7 @@ ii)	Create Schematic Cell view.
 
 ![4](https://github.com/user-attachments/assets/4530ff4e-3114-4cf5-bda5-18fd68186f51)
 
+
 iii) Creating the Symbol for schematic Cell view
 - In the schematic window, execute . 
 + Create – Cell view – From Cell view
@@ -104,6 +105,18 @@ iv)	Creating the new test cell view
 
 
 ![5](https://github.com/user-attachments/assets/5d37d4ce-14fa-4aaf-bc8c-3f7a26497bc6)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### For DC Analysis Settings and Output
