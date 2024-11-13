@@ -13,12 +13,13 @@ PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
 1.	Right Click and open the terminal window
 2.	Type the following commands as follows and press enter.
-3.	
+   
     -	csh
     -	source /cadence/install/cshrc
     -	virtuoso
       
 Procedure for Schematic simulation using Cadence
+
  1.	Now two windows must open
     
 	i) virtuoso/command interpreter window
@@ -38,14 +39,15 @@ i) Procedure for Creating New Library.
 - Enable Attach to an existing technology library, Click OK.
 - Attach the library to the technology library gpdk045.Click OK.
 		 
-ii)	Create Schematic Cell view.
-
+ii)Create Schematic Cell view.
 - Go to 1st window i.e virtuoso (CIW)
 - File-New-Cell view
 - Setup the new file form
   + Library: Select the one you created.
   + Cell: Give the experiment name Ex: Inverter ViewSchematic
   + Type: Schematic press OK
+
+    
 - Add the required components from the libraries and make the connections.
   + Go to instance fixed menu or use shortcut key “I” from keypad to go instances
   + Click on browse. This opens the library browser
@@ -56,6 +58,8 @@ ii)	Create Schematic Cell view.
   + Click Check and Save button
 
 ![4](https://github.com/user-attachments/assets/4530ff4e-3114-4cf5-bda5-18fd68186f51)
+
+
 
 
 iii) Creating the Symbol for schematic Cell view
