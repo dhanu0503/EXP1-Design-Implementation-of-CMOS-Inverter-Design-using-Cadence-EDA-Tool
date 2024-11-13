@@ -106,7 +106,14 @@ iv)	Creating the new test cell view
 
 ![8](https://github.com/user-attachments/assets/dfe8e7a1-fcde-4d26-b913-fe2448e4f1b8)
 
- 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ### For Transient Analysis Settings and Output
 ![6](https://github.com/user-attachments/assets/41158b07-d743-42d2-b416-ea3f15025d5d)
 
@@ -115,15 +122,15 @@ iv)	Creating the new test cell view
 
 
 
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 ### For DC Analysis Settings and Output
