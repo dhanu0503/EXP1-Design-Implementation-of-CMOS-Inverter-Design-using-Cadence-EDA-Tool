@@ -91,7 +91,7 @@ iv)	Creating the new test cell view
 ![2](https://github.com/user-attachments/assets/e96660be-992d-43c4-8ed2-87cad76c02c6)
 
 
-
+<br>
  
 ### Analog simulation by SPECTRE.
 - In test cell view window
@@ -105,6 +105,7 @@ iv)	Creating the new test cell view
 - Execute Simulation -- Net list and Run
 
 ![8](https://github.com/user-attachments/assets/dfe8e7a1-fcde-4d26-b913-fe2448e4f1b8)
+
  
 ### For Transient Analysis Settings and Output
  
