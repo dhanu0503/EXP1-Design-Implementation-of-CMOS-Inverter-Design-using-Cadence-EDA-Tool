@@ -33,7 +33,8 @@ Procedure for Schematic simulation using Cadence
 	   - Create the Symbol for schematic Cell view.
 	   - Create the test Cell view.
 	   - Analog simulation by spectre
-      
+<br>
+
 i) Procedure for Creating New Library.
 - File –New – Library
 - Name: Give name for ur library Ex: VLSILAB_EXP_1
