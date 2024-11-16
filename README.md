@@ -2,7 +2,6 @@
 ### Aim:
 To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse its electrical characteristics, and understand the fundamental principles of CMOS technology, including the design process, layout, and simulation techniques.
 
-
 ### Tools Required:
    -	Personal Computer
    -	Cadence Virtuoso Software
@@ -34,7 +33,6 @@ Procedure for Schematic simulation using Cadence
 	   - Create the Symbol for schematic Cell view.
 	   - Create the test Cell view.
 	   - Analog simulation by spectre
-<br>
 
 i) Procedure for Creating New Library.
 - File –New – Library
@@ -62,9 +60,6 @@ ii)Create Schematic Cell view.
 
 ![4](https://github.com/user-attachments/assets/4530ff4e-3114-4cf5-bda5-18fd68186f51)
 
-
-
-
 iii) Creating the Symbol for schematic Cell view
 - In the schematic window, execute . 
 + Create – Cell view – From Cell view
@@ -91,9 +86,6 @@ iv)	Creating the new test cell view
 
 ![2](https://github.com/user-attachments/assets/e96660be-992d-43c4-8ed2-87cad76c02c6)
 
-
-<br>
- 
 ### Analog simulation by SPECTRE.
 - In test cell view window
 - Launch – ADE L(Analog Design Environment)
@@ -107,20 +99,6 @@ iv)	Creating the new test cell view
 
 ![8](https://github.com/user-attachments/assets/dfe8e7a1-fcde-4d26-b913-fe2448e4f1b8)
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ### For Transient Analysis Settings and Output
 ![6](https://github.com/user-attachments/assets/41158b07-d743-42d2-b416-ea3f15025d5d)
@@ -129,25 +107,12 @@ iv)	Creating the new test cell view
 ![5](https://github.com/user-attachments/assets/5d37d4ce-14fa-4aaf-bc8c-3f7a26497bc6)
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ### For DC Analysis Settings and Output
 ![7](https://github.com/user-attachments/assets/cfa14204-7a24-4b71-b39b-9fa981f95b27)
  
 
 ![1](https://github.com/user-attachments/assets/8a24b7aa-3a4d-44ed-a99e-ecda29b6b6dd)
  
-
 
 ### Results:
 1.	Successfully designed the CMOS inverter schematic using Cadence EDA tools.
